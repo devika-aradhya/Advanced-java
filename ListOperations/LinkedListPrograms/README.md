@@ -4,7 +4,7 @@
 [1. Write a Java program to iterate through all elements in a linked list starting at the
 specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperations/LinkedListPrograms/1c.IterateFromSecond.png)
 
 
 [2. Write a Java program to iterate a linked list in reverse order (using
