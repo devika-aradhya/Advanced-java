@@ -80,5 +80,5 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOpera
 [Q10. Write a Java Program for Counting the number of words in a string using user defined function
 countWords()]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOperations_Program3/3c.WordCount.png)
 
