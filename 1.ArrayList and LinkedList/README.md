@@ -16,7 +16,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList
 the color "Red" is available or not]
 
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList%20and%20LinkedList/1b.Searchcolor.png)
 
 
 
