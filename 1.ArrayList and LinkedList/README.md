@@ -58,7 +58,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList
 [2. Write a Java program to iterate a linked list in reverse order (using
 objlist.descendingIterator())]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList%20and%20LinkedList/1c.reverseIterate.png)
 
 
 [3. Write a Java program to insert the specified element at the end of a linked list.( using
