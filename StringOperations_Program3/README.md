@@ -73,7 +73,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOpera
 [Q9. Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOperations_Program3/3c.RandomString.png)
 
 
 
