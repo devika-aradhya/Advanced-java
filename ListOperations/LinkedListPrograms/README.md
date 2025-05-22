@@ -16,13 +16,12 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperati
 [3. Write a Java program to insert the specified element at the end of a linked list.( using
 l_listobj.offerLast("Pink"))]
 
-Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperations/LinkedListPrograms/1c.DisplayWithPosition.png)
-
+Solution->()
 
 [4. Write a Java program to display elements and their positions in a linked list ( using
 l_listobj.get(p) )]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperations/LinkedListPrograms/1c.DisplayWithPosition.png)
 
 
 [5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
