@@ -70,7 +70,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList
 [4. Write a Java program to display elements and their positions in a linked list ( using
 l_listobj.get(p) )]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList%20and%20LinkedList/1c.DisplayWithPosition.png)
 
 
 [5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
