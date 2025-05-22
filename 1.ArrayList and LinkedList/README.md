@@ -8,7 +8,7 @@ Accessing elements,5. Updating elements, 6. Removing elements, 7. Searching elem
 size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list
 1b. Array List programs]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList%20and%20LinkedList/listoperations.png)
 
 
 
