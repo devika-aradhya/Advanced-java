@@ -55,7 +55,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOpera
 [Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOperations_Program3/3c.CapitalizeWords.png)
 
 
 
