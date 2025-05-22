@@ -46,7 +46,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOpera
 [Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
 function removeWhitespace()]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOperations_Program3/3b.WhiteSpaceremover.png)
 
 
 3c. String Exercise progams
