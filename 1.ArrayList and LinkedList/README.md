@@ -37,7 +37,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList
 
 
 [4. Write a java program for getting different colors through ArrayList interface and extract the
-elements 1st and 2nd from the ArrayList object by using SubList()]
+elements 1st and 2nd from the ArrayList object by using SubList(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList%20and%20LinkedList/1b4.sublistcolors.png)]
 
 Solution->()
 
@@ -45,7 +45,7 @@ Solution->()
 [5. Write a java program for getting different colors through ArrayList interface and delete nth
 element from the ArrayList object by using remove by index]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList%20and%20LinkedList/1b5.removefromindex.png)
 
 1c. Linked List Programs
 
@@ -64,7 +64,7 @@ Solution->()
 [3. Write a Java program to insert the specified element at the end of a linked list.( using
 l_listobj.offerLast("Pink"))]
 
-Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList%20and%20LinkedList/1b4.sublistcolors.png)
+Solution->()
 
 
 [4. Write a Java program to display elements and their positions in a linked list ( using
