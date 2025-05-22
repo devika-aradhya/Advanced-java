@@ -62,7 +62,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOpera
 [Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
 defined function truncate()]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOperations_Program3/3c.TruncateString.png)
 
 [Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
 function isNumeric()]
