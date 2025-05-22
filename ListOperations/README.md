@@ -9,4 +9,16 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/listoperati
 1b. Array List programs:
 [1. Write a java program for getting different colors through ArrayList interface and search whether
 the color "Red" is available or not]
-solution->
+solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperations/SearchColor.java)
+[2. Write a java program for getting different colors through ArrayList interface and remove the
+2nd element and color "Blue" from the ArrayList]
+Solution->()
+[3.Write a java program for getting different colors through ArrayList interface and sort them
+using Collections.sort( ArrayListObj)]
+Solution->()
+[4.Write a java program for getting different colors through ArrayList interface and extract the
+elements 1st and 2nd from the ArrayList object by using SubList()]
+Solution->()
+[5.Write a java program for getting different colors through ArrayList interface and delete nth
+element from the ArrayList object by using remove by index]
+Solution->()
