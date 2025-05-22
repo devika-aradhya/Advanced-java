@@ -16,7 +16,9 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperati
 [3. Write a Java program to insert the specified element at the end of a linked list.( using
 l_listobj.offerLast("Pink"))]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperations/LinkedListPrograms/1c.DisplayWithPosition.png)
+
+
 [4. Write a Java program to display elements and their positions in a linked list ( using
 l_listobj.get(p) )]
 
