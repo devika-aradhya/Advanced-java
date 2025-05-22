@@ -18,7 +18,7 @@ using Collections.sort( ArrayListObj)]
 Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperations/1b3%20SortColors.png)
 [4.Write a java program for getting different colors through ArrayList interface and extract the
 elements 1st and 2nd from the ArrayList object by using SubList()]
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperations/1b4.sublistcolors.png)
 [5.Write a java program for getting different colors through ArrayList interface and delete nth
 element from the ArrayList object by using remove by index]
 Solution->()
