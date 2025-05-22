@@ -21,4 +21,4 @@ elements 1st and 2nd from the ArrayList object by using SubList()]
 Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperations/1b4.sublistcolors.png)
 [5.Write a java program for getting different colors through ArrayList interface and delete nth
 element from the ArrayList object by using remove by index]
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperations/1b5.removefromindex.png)
