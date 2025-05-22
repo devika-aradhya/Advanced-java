@@ -64,7 +64,7 @@ Solution->()
 [3. Write a Java program to insert the specified element at the end of a linked list.( using
 l_listobj.offerLast("Pink"))]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList%20and%20LinkedList/1b4.sublistcolors.png)
 
 
 [4. Write a Java program to display elements and their positions in a linked list ( using
