@@ -25,7 +25,7 @@ Solution->()
 [Q2. Write a Java Program for Counting how many times a substring appears in a main string
 using user defined function countOccurrences()]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOperations_Program3/3b.StringReverser.png)
 
 
 
