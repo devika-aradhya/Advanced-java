@@ -8,7 +8,7 @@ Searching, Substring Operations , String Modification, Whitespace Handling, Stri
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
 startsWith() and endsWith()]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOperations_Program3/3a.Stringoperations.png)
 
 
 3b. String Exercise progams
