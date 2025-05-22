@@ -24,7 +24,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList
 2nd element and color "Blue" from the ArrayList]
 
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList%20and%20LinkedList/1b2RemoveColors.png)
 
 
 [4. Write a java program for getting different colors through ArrayList interface and sort them
