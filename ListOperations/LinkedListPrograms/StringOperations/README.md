@@ -15,7 +15,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperati
 appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify
 your answer which one is better.]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperations/LinkedListPrograms/StringOperations/2b.StringPerformanceTest.png)
 
 
 
