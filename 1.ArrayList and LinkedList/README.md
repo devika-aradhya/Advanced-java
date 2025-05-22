@@ -27,18 +27,22 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList
 Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList%20and%20LinkedList/1b2RemoveColors.png)
 
 
-[4. Write a java program for getting different colors through ArrayList interface and sort them
+[3. Write a java program for getting different colors through ArrayList interface and sort them
 using Collections.sort( ArrayListObj)]
 
 
+Solution->()
 
-[5. Write a java program for getting different colors through ArrayList interface and extract the
+
+
+
+[4. Write a java program for getting different colors through ArrayList interface and extract the
 elements 1st and 2nd from the ArrayList object by using SubList()]
 
 Solution->()
 
 
-[6. Write a java program for getting different colors through ArrayList interface and delete nth
+[5. Write a java program for getting different colors through ArrayList interface and delete nth
 element from the ArrayList object by using remove by index]
 
 Solution->()
