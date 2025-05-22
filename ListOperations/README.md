@@ -12,7 +12,7 @@ the color "Red" is available or not]
 solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperations/SearchColor.java)
 [2. Write a java program for getting different colors through ArrayList interface and remove the
 2nd element and color "Blue" from the ArrayList]
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/ListOperations/1b2RemoveColors.png)
 [3.Write a java program for getting different colors through ArrayList interface and sort them
 using Collections.sort( ArrayListObj)]
 Solution->()
