@@ -31,7 +31,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList
 using Collections.sort( ArrayListObj)]
 
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/1.ArrayList%20and%20LinkedList/1b3%20SortColors.png)
 
 
 
