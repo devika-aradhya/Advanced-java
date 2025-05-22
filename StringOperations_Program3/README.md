@@ -67,7 +67,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOpera
 [Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
 function isNumeric()]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/StringOperations_Program3/3c.CheckNumeric.png)
 
 
 [Q9. Write a Java Program for Creating a random string of a specified length using user defined
