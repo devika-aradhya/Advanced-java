@@ -4,7 +4,7 @@ Swing_Program4
 Programming in Blue color plain font with font size of 32 using Jframe and Jlabel]
 
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/Swing_program4/HelloSwing.png)
 
 
 [4b. Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is
