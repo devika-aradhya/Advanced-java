@@ -11,7 +11,7 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/Swing_progr
 pressed” depending upon the Jbutton either Srilanka or India is pressed by implementing the
 event handling mechanism with addActionListener( ).]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/Swing_program4/4b.CountryButton.png)
 
 
 [4c. Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour
