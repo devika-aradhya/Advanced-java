@@ -28,5 +28,5 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/Swing_progr
 display the concerned color whenever the specific tab is selected in the Pan]
 
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/Swing_program5/5d.CMYTabbedPane.png)
 
