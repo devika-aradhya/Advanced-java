@@ -16,6 +16,6 @@ Emp_No : 102
 Emp_Name: Ravi
 Basic : 20000
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/9d_JDBC_MYSQL_Delete/9d_DeleteEmployee.png)
 
 
