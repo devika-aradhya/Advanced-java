@@ -5,5 +5,5 @@
 by step procedure.]
 
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/6c_PrimeNumber/6c_primeNumber.png)
 
