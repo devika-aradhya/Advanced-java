@@ -5,4 +5,4 @@ an existing coffee product from the table with its id and display the rest of th
 HTML and JSP to get the field and display the results respectively]
 
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/9a_MySQL_Delete/9a_MySql_Delete.png)
