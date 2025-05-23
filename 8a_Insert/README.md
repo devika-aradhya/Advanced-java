@@ -5,4 +5,4 @@ new coffee product into it [Create a table coffee with fields ( id,coffee_name,p
 JSP to get the fields and display the results respectively]
 
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/8a_Insert/8a_insert.png)
