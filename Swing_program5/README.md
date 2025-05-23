@@ -22,7 +22,7 @@ Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList
 display the capital of the countries on console whenever the countries are selected on the list.]
 
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/Swing_program5/5c.CountryCapitalList.png)
 
 [5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
 display the concerned color whenever the specific tab is selected in the Pan]
