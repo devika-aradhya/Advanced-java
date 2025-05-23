@@ -18,6 +18,6 @@ Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/Swing_progr
 Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is
 pressed by implementing the event handling mechanism with addActionListener( ).]
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/Swing_program4/4c.ImageButtonExample.png)
 
 
