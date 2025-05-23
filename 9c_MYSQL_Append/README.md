@@ -6,4 +6,4 @@ the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using 
 to get the field and display the results respectively]
 
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/9c_MYSQL_Append/9C_SalaryReport.png)
