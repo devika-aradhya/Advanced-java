@@ -5,7 +5,7 @@ the table Emp of the database Employee using HTML and JSP to get the fields and 
 results respectively]
 
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/8d_JDBCProject/8d_UpdateForm.png)
 
 
 Solution->()
