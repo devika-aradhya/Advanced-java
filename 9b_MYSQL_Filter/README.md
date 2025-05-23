@@ -5,4 +5,4 @@ coffee name starting with ‘D’ in the table using HTML and JSP to get the fie
 results respectively]
 
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/9b_MYSQL_Filter/9b_MYSQL_Filter.png)
