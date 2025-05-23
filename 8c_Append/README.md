@@ -24,4 +24,4 @@ Grand Salary : 45000
 
 Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/8c_Append/8c_Indexinsert.png)
 
-Solution->()
+Solution->(https://github.com/devika-aradhya/Advanced-java/blob/main/8c_Append/8c_SalaryReport.png)
